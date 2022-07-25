@@ -178,7 +178,7 @@ def fii_xd():
 			print(f"{B} \n \033[0;96m[✓] Crack password manual/default {P}M/D")
 			ter =input(f"{P}\n   Choose : {P}")
 			if ter in ["m","M"]:
-				print(f"{B}   \n{M} Only Support M-Pass !!");exit()
+				print(f"{B}   \n{M} Only Support default-Pass !!");exit();os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 				exit()
 			elif ter in ["d","D"]:
 				with ThreadPoolExecutor(max_workers=30) as coeg:
@@ -199,7 +199,7 @@ def fii_xd():
 				exit()
 
 	elif mrbaloch in ["3","03"]:
-		print(f"{B} \n \033[0;96m[✓] Apply Cp Detector {P}Y/t")
+		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
 		_start_=input(f"{P}\n   Choose : {P}")
 		if _start_ in ["t","T"]:
 			print(f"{B}   \n{M} Ok Godby !!");exit()
@@ -208,7 +208,7 @@ def fii_xd():
 			print(f"{B} \n \033[0;96m[✓] Crack password manual/default {P}M/D")
 			ter =input(f"{P}\n   Choose : {P}")
 			if ter in ["m","M"]:
-				print(f"{B}   \n{M} Only Support M-Pass !!");exit()
+				print(f"{B}   \n{M} Only Support default-Pass !!");exit();os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 				exit()
 			elif ter in ["d","D"]:
 				with ThreadPoolExecutor(max_workers=30) as coeg:
@@ -228,7 +228,7 @@ def fii_xd():
 				exit()
 				
 	elif mrbaloch in ["2","02"]:
-		print(f"{B} \n \033[0;96m[✓] Apply Cp Detector {P}Y/t")
+		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
 		_start_=input(f"{P}\n   Choose : {P}")
 		if _start_ in ["t","T"]:
 			print(f"{B}   \n{M} Ok Godby !!");exit()
@@ -237,7 +237,7 @@ def fii_xd():
 			print(f"{B} \n \033[0;96m[✓] Crack password manual/default {P}M/D")
 			ter =input(f"{P}\n   Choose : {P}")
 			if ter in ["m","M"]:
-				print(f"{B}   \n{M} Only Support M-Pass !!");exit()
+				print(f"{B}   \n{M} Only Support default-Pass !!");exit();os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 				exit()
 			elif ter in ["d","D"]:
 				with ThreadPoolExecutor(max_workers=30) as coeg:
